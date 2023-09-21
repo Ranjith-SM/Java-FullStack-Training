@@ -1,0 +1,32 @@
+Disk:
+    hdd > less speed in read and write operations. contains mostly hardware. less cost.
+    ssd > it is faster and better than hdd. cost is high.
+
+Ram:
+    Random Access Memory.
+    stores a temporary value in memory for a faster Access.
+
+Cached Memory:
+    faster access to value than Ram.
+
+Application process:
+    when dev developed a new feature , they will build and deploy it in the cloud or server.
+
+    when a client uses the Application , he/she will access the server to use the application , and there 
+    will be a loadbalancer to avoid the cloud traffic. 
+
+    the server will be connected to the metrics server/system to ensure that the server is performing the
+    process.
+
+tcp: transmission control protocol, it will use 3-way communication to transfer data.
+        it is used in smtp and ftp.
+
+udp: User datagram protocol, it will be faster than tcp.
+        it is used in video call, audio call.
+
+DNS: Domain Name system
+        to get the server ip address from the server and get the straight domain name.
+        cdn will be used to get the server ip address and get it to the client as fast as possible.
+        cdn(Content Delivery Network) 
+
+github , git and VS:
