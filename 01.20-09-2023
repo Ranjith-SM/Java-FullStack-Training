@@ -29,6 +29,19 @@ DNS: Domain Name system
         cdn will be used to get the server ip address and get it to the client as fast as possible.
         cdn(Content Delivery Network) 
 
+API : Application Programming Interface
+    1.REST - use http 1
+        1.get
+        2.put
+        3.post
+        4.delete
+    2.Graph - use http 1
+    3.GRPC - use http 2
+
+
+when we sent the data to the server it will be sent in packets, and it contains the ip address of the sender
+and the client/server ip address. this will be called data packets.
+
 
 
 
