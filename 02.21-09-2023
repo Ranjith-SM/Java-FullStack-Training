@@ -1,0 +1,21 @@
+html tags:
+    input tags: 
+    img tag
+    select tag:
+    audio & video tags:
+    table tag: td ,th, tr
+
+html entitites: 
+
+css relational selector:
+
+pseudo element : p::first-letter , before , after , selection , first-line
+pseudo selector : in-range, focus, hover , visited , nth-child()
+
+
+div element > display: flex; -> by default it will be in row order. if you want to change it to column order,
+    set (direction:column).
+    justify-content: center; flex-start; flex-end;
+    align-items: center; start; end;
+
+
