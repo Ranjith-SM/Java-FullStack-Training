@@ -1,0 +1,14 @@
+created a website (replicated) which is a part of a webpage.
+it contains images and the text which describes the images.
+
+i have used several div elements, which i have learned in day 2 to replicate the content.
+
+then i have faced the issue in ordering those picture cards in place as it is,
+but i have resolved the problem with div element and css property display:flex.
+
+and used padding property to separate the picture cards from one another.
+
+then i have published the website using the github pages.
+
+website link: https://ranjith-sm.github.io/task/
+
