@@ -5,9 +5,8 @@ html tags:
     audio & video tags:
     table tag: td ,th, tr
 
-html entitites: 
+html entitites: &#8377;-> rupee symbol.
 
-css relational selector:
 
 pseudo element : p::first-letter , before , after , selection , first-line
 pseudo selector : in-range, focus, hover , visited , nth-child()
