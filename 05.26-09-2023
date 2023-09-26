@@ -1,0 +1,33 @@
+morning - i had gone through some videos in  the bootstrap course in udemy 
+    which helped me to understand and easy way to do things which we have done before with css.
+
+to use the bootstrap in your project : copy the link in the bootstrap site or download the bootstrap.min.js
+
+add that  link to your project in the head tag.
+
+and then we created a simple project using the bootstrap
+
+then we learned about the js concepts:
+    1.variable : let , const, var
+    2.type : string, boolean, number
+    3.array
+    4.object
+    5.function
+    6.arrow function
+    7.looping
+    8.string literals
+    9.object destructions : storing a values on a separate variable from object.
+    10.spread operator : (...)
+    11. map, reduce & filter.
+
+
+if we put null in var then the output will be object
+
+{} - it will be consired as scope.
+
+if we call function b4 the declaration of the function it will throw an problem called hoisting problem.
+this problem is also in var variable. when we declare var in one line,
+then initializing it in the other line will throw the problem.
+
+
+
