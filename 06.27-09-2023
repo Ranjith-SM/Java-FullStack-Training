@@ -1,0 +1,20 @@
+today morning we have gone through the concepts in js that we have
+learned yesterday.
+
+then we learned some more concepts in js using DOM Manipulation,
+    1. inner.html & inner.text
+    2. math.random - we can get the random number 
+    3. Document.getElementById() - using this cmd we can get the
+        values from the html input element and also modify other elements.
+
+    4. addEventListener
+    5. keyup, change, keypress.
+    6. onclick - this can be used to call the function in the 
+        javascript in the html itself. without getting id to the js.
+
+then we done the todo application with the html , bootstrap and js.
+using the concepts  that we have learned so far.
+
+then we created another application which is similar to the 
+todo application that is to show username and the phone number.
+
