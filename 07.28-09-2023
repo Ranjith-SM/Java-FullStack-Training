@@ -1,0 +1,53 @@
+gone through the concepts that we have learned yesterday.
+
+then we learned some more concepts in js,
+
+    onload property : it is used to change or manipulate the page 
+        when it is loading.
+        for example:  onload=fn() 
+            the function fn() will be called when the page is starts
+            loading. we can use that function to manipulate or do something
+            when the page is loading.
+
+    window : it is global variable that contains all the informaton.
+        we can add addEventListener to this and do some operation with it
+        using console.loading
+
+        for example: window.addEventListener ("load", () => {
+            console.log("page is loaded");
+        }); // it is called as an annonymous arrow function because it 
+                doesn't have the name of the function.
+
+        it prints page is loaded in the console window when thepage 
+        is starts loading.
+
+    event : (e) an event will always have in the paranthesis.
+            we can access the value of the event by ,
+            ( event.target.value ).
+
+    2-way Binding: when the text is typed in the input , it gets
+        reflected immediately in the element down below. we can
+        use this by js.
+
+        example: i1.addEventListener("keyup", () => {
+            p1.innerText = i1.value;
+        });
+
+    ParseInt : this in-built function will convert the text into 
+                a number.
+
+    QuerySelector : this is used to get element value like the document.getElementById,
+        but using this we can get element by class name instead.
+        but it will have html collections and we have to access it
+        by array.
+
+
+then we started to create the e-commerce website. 
+created : 1.in home page->nav bar and user link.        
+          2.Sign-in page.
+          3.Sign-up page.
+
+
+
+    
+    
