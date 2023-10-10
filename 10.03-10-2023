@@ -1,0 +1,10 @@
+we started to create the e-commerce website as we learned how to do yesterday.
+
+as i completed the ui for the task , i started to do the sign-in & sign-up page validation.
+
+then i created the products that has to be stored in the localstorage then
+it has to be shown to the users.
+
+then i created a function to show the products in users page, and added the cart page ,
+and also made when the add to button is clicked it has to be added to the cart page.
+

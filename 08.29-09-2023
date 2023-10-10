@@ -1,0 +1,15 @@
+morning we created a UI / front-end for the e-commerce website.
+
+then we learned to do the backend work for the e-commerce website task,
+using the concepts we learned before.
+
+and also we learned some new things while creating the website.
+
+we get the products from the dummyjson website, stored it in the localstorage of the browser.
+
+website has to separate the normal users from the admin.
+
+the products ha to be loaded in the users home page as card and also for the admin page like a table and it has to be editable and also to be deleted.
+
+when user is not logged in then only he can see all the products and add them into cart but cannot checkout or view his orders.
+

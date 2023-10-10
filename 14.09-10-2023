@@ -1,0 +1,20 @@
+tried to do form validation with the jquery concepts.
+ with the condition same as the javascript form validation.
+ during this task i have faced issue in multiple things since we done things in javascript.
+ so,i tried my best and try to solve all of them and complete it .
+
+
+then we started typescript, and installed the typescript in the device.
+to run the typescript with the html, we have to convert the typescript into 
+javascript to run the html file in browser. because browser won't understand the 
+typescriptfile.
+
+for this purpose we used parcel. parcel automatically do this process.
+and to use this we need to have node in our system, if not install node js with  lts support in the website.
+
+then we need to install the typescript in our system. to do this , type this code in the terminal:
+        npm install -g typescript 
+
+        -g : it means that typescript will be installed globally  in our system.
+        -d : it means that it will install the dependencies for the specific project alone.
+                we can also use ( --save-dev ) instead of -d both are equal.

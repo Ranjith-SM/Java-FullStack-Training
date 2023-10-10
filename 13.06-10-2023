@@ -1,0 +1,20 @@
+to freshen up the concepts , we have given the task to validate the form while typing itself.
+
+these conditions has to met:
+    - In Name, the 1st letter has to be capital letter.
+    - Name should not contain numbers & special characters.
+    - number should have 10 num , and no other characters.
+    - email should be in the email format.
+    - for radiobox : by default  nothing should be selected and 
+        before clicking the submit button ateast 1 radio btn has to be clicked.
+    - the same condition has to be met for drpdown and checkbox also.
+
+and atlast we have gone through some concepts in jquery like,
+    -ajax : to fetch data from the url / online source.
+        in ajax u have to specify the things like url,data,success,datatype.
+        to fetch the data from the url.
+
+    -Dom Manipulation:
+        you have to use $-symbol for the dom Manipulation.
+        
+
