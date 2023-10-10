@@ -18,3 +18,14 @@ then we need to install the typescript in our system. to do this , type this cod
         -g : it means that typescript will be installed globally  in our system.
         -d : it means that it will install the dependencies for the specific project alone.
                 we can also use ( --save-dev ) instead of -d both are equal.
+
+to install the parcel to the project: ( npm install -d parcel parcel-bundler ).
+
+before running the project we need to initialize it: ( npm init -y ) -> it will create package.json file in your 
+folder.
+
+to run we have to add script that has to link to the index.html:
+    in the package.json file, under scripts obj -> create new script that links the index.html,
+    for example => "start": "parcel /src/index.html",
+
+then to run , run the script name that you added => (npm run start).
