@@ -1,0 +1,23 @@
+today also we touched some more concepts in typescrits.
+
+if we declare a type and some variable and datatype to it,
+we can make some variables optional, by putting ( ? )- symbol after the variable.
+
+this can also be applicable to the array of objects.
+
+we can also make a variable or objects readonly ie. that can't be editable.
+for this we usually put const to the variable, but there's one more optio to it.
+we can use (readonly) - predefined variable before the actual variable.
+
+
+how to declare class and object to that class.
+if we want to access something in the class , we should do it by the use of objects.
+
+access modifiers:
+    - public : if we declare a variable or methods public, it can be accessible anywhere in the project.
+    - private : if we declare a method as private then only it will be available inside its own class.
+    - protected : if we declare anything as protected, subclasses of current class can access it.
+                the subclasses should extend the parent class.
+inside class we don't need to specify the let & const or the datatype.
+
+then we tried to do the to-do list task using typescript and html.
