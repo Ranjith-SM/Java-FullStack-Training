@@ -1,0 +1,49 @@
+today we started the angular framwork, 
+    how to setup angular in the device.
+    how to create a project.
+    how to run the project.
+    how to add components, services and modules into our application,
+        and how to connect it to the appModule file.
+
+as same as typescript , browser also doesn't understand the angular files,
+so angular automatically compiles the files that can be understand and render in the browser.
+this compile thing is done by JIT compiler.
+
+and we discussed what are the files that we can modify .
+
+then i came to know what is SPA - Single Page Application.
+    SPA is an application that doesn't reload.
+    eg: g-mail
+the framwork that supports SPA Application are: 
+    - angular. 
+    - react.
+    - vue.
+        these are components based framwork.
+
+Higher Order Function:
+    A Function that returns a Function.
+
+Decorator:
+    it starts with @- symbol.
+    eg: @ngModule , @input.
+
+String Interpolation:
+    we can assign a text to a variable in component.ts file, then we can use 
+    that varible in the html component.
+
+    to use the variable in the component: {{variable_name}}.
+
+as of now we wrote everything in the typescript file but in angular we can't do that,
+we have to write all the business logic and operation in the service file that we have created.
+
+
+property binding:
+    we can use this straightly in the html element to add a text.
+    eg: <p [text-content]="hiii"> </p> // in output it prints hi in paragraph.
+
+like property binding, we also have event binding , two-way data binding, attribute binding, class binding.
+
+In angular, a component may do a set of operation. we want to use that operation in another component.
+at first, we need to export the class that do the operation.
+then we can import it in componentas we like.
+
