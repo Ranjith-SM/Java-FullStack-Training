@@ -1,0 +1,26 @@
+Revised Topics  :
+    - component
+    - service
+    - ngModule
+    - Decorator
+    - String Interpolation
+    - property binding
+    - event binding
+
+and atlast we tried to create the To-Do list application in angular, 
+with edit and delete button to manipulate the messages in the todo.
+
+first we created a component todo, then created a interface under Module folder,
+then using [(ngModel)] ie. Two-way binding. we get input from the user and store it in the array of type we declared in 
+the interface.
+
+then used *ngFor to display the task to the user which is stored in array.
+    *ngFor will loop through the array and display it in the table.
+for editing tasks, i have added an Edit button with (click)="editTask(id)" will show on every task.
+on clicking this button, it will call the method "editTask" where id of that particular task can be accessed.
+the values of that id will be accessed in the array using find method, then the value must be passed to the respective input field for the update.
+
+after updating the message, the value should be stored in the array of that respective id, and display it to the user.
+
+to delete a task or message , i have added delete button. when delete button is clicked, the id of that msg is passed to the parameter.
+then using filter method we delete that particular message or task.

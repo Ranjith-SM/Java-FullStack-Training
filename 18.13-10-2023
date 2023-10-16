@@ -1,0 +1,23 @@
+Topics covered : Routing
+
+    in normal we use href property to link / navigate to the other page.
+    but in angular we have to do a routing method to link/navigate to the other page.
+
+    while creating new a project itself , it will ask to do routing in the project: 
+    type (y) to configure routing to your project.
+
+    then create the neccessary components needed for the project, and also the services and interface files.
+
+    to do routing we have to add path and component manually in the app-routing.module.ts:
+        in the routes array variable , we have to define those two.
+        example: for the e-commerce site =>  we need home , cart & shop .
+        so we have to write like this in app-routing.module.ts in routes variable:
+            eg: const routes: Routes = [{path:"home", component:HomeComponent},
+                                        {path:"cart", component:CartComponent},
+                                        {path:"orders", component:OrdersComponent},
+                                        {path:"login", component:LoginComponent},
+
+                                        ];
+    
+    the path value shoud be same in the routerlink that we put in the component.
+    
