@@ -1,0 +1,15 @@
+today 's work;
+ 
+wrote logic for add to cart function in ecommerce site , in which when the user clicks a product addtoCart ,
+ that particular product will be reflected to the cart page and also when it is again clicked the same product,
+ the quantity of that product will be increased. 
+ 
+also done the logic part to count the number of products in the cart and display the same in the navigation bar
+to show the user that how many products are in the cart page.
+ 
+to load the products in the cart page , we have to set the cart items to the localstorage first 
+and then we have to get the cart items of that particular user to show it in the cart page.
+ 
+to show the cart count in the navigation bar , we used string interpolation to get the count in service file and then display it in the 
+navigation bar.
+when the user is logged out from the website, all his/her data should be deleted in the session storage and redirected to login page.

@@ -1,0 +1,17 @@
+completed :
+  sign-in function with form validation , when the user wants to login : it should check whether the credentials has been match with with credentials
+  when he registered.
+  logout function in the nav-bar , logsout the user out of the website and navigate to the login page.
+
+  register function with form validation , the details we valideted are:
+    - name / username
+    - email
+    - password
+    - confirm password
+    if all fields filled correctly, it will create a new account for that user.
+
+  load home page - when the home page gets loaded, the products should be displayed,
+  we get this products from free api and store it in the localstorage, and then from the localstorage,
+  we display the products through *ngFor (structural Directives)
+
+  
