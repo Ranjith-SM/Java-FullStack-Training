@@ -1,0 +1,49 @@
+today started java basics:
+    - declare varibles
+    - objects
+    - DataType: int , short, char, bolean, long, double
+    - operators
+    - methods:
+        -with return type
+        -without return type
+        -with arguments
+        -without argument
+
+    - array
+    - conditional 
+    - loops (for, while,dowhile)
+    - String | Stringbuffer | StringBuilder
+    - try catch
+
+Errors we faced while doing coding:
+- in  int it has to have the value less than the range value
+- and also for float has to add f after the value.
+- if you want to use a variable inside string then you need to concatenate using + operator
+- when comparing two values of different data types, they will be converted into one common datatype before comparison
+- when comparing two values you can compare them by == or !=
+
+- while initializing array size we have put new datatype.
+- In switch case statement, we cannot start from zero as it is reserved keyword.    
+
+// arrsize declaration:      int arr[5] = {1,2,3,4,5}; error:java: ']' expected.
+
+ method to give size to an array
+        int arr1[] =new int[2];   //java: not a statement
+        arr1 = {1, 2, 3, 4, 5}; //array initialiser is not allowed here
+
+
+switch ( num3 ) {
+////            case 1 | 2:  // there is a error throw at this line.
+////                System.out.println("a=");
+////                break;
+////            case 3:
+////                System.out.println("num2"+2);
+////                break;
+////            case 4:
+////                System.out.println("num2"+4);
+////                break;
+////            case 5:
+////                System.out.println("num2"+5);
+////                break;
+////        }
+

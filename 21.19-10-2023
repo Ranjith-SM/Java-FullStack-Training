@@ -1,0 +1,18 @@
+i have created a another component to show the project details in it like technology used,
+then what are the components created and also what function we do in that.
+
+hosted the project in the gitpages, while hosting we faced issue,
+the page only shows the readme file in the angular.
+
+then we found the solution how to host the angular project in issue.
+
+to host we need to install the install the gitpages in terminal.
+then type these commands :
+        ng build --configuration production --base-href "hosted gitpageslink"
+        npx angular-cli-ghpages --dir=dist/Project-name
+
+then we learned about the topics:
+    - Deactivate
+    - animation
+    - pagination
+    
