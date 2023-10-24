@@ -1,0 +1,52 @@
+Exceptions:
+    - checked -> compile time exception
+    - unchecked -> runtime time exception
+    - error
+
+boxing:
+    - autoboxing -> it converts the primitive data type into the respective wrapper class objects.
+    - unboxing -> it converts the wrapper class objects back to the respective primitive type.
+
+Object:
+    - how to create a object for a class.
+    - using new keyword and calling constructor of that class.
+    - how to call methods in the class using the objects created.
+    - accessing fields or variables inside the class through getter setter method.
+
+methods:
+    - we can define any number of methods inside the class.
+    - format:
+        access-specifier access-modifier returntype method_name.
+        eg: public static void test() {}.
+        - return type is optional, if not mentioned then it will be considered as 'void'.
+
+class:
+    - Class is a capsule which contains all methods and variables.
+    - A class is like blueprint from which an instance (object) is created.
+    - In java, everything is an Object. Even int, float are also objects. They have their own classes.
+
+Abstract Class:
+    - it can have a Abstract method or a defining method.
+    - An abstract method does not contain any implementation. It must be implemented by its subclasses.
+    - We use abstract keyword with our class declaration.
+    - Example: public abstract class Animal {}
+
+Interface:
+    - interface is used when multiple inheritance is required.
+    - Multiple interfaces can extend another interface but only one superclass.
+    - Interfaces cannot include constructors, they can only declare constants and abstract methods.
+    - All methods declared in an interface are implicitly public and abstract.
+
+    - Example: public interface Swimmable{}
+
+Date:
+    - since Date is a class we have to create a object to access it.
+    - eg: Date dateobj = new Date();
+        sout(dateobj); // will give the current date and time.
+    - to format the date: we use simpledateformate class to format the date.
+    - example: SimpleDateFormat sdf=new SimpleDateFormat("dd/MMM/yyyy");
+        sout(sdf.format(dateobj));
+
+Collection: (ArrayList)
+    - it stores data to the array dynamically.
+    - we need not to mention the size to it like array.
