@@ -1,0 +1,34 @@
+today we tried to do some small java programs to implement the concepts that we learned.
+
+
+some small java task
+Collection:
+    - List: stores value same as the array, but we need not specify size to it.
+        ->ArrayList
+        ->Linkedlist
+
+    - map: stores the value as key: value pair. 
+        ->HashMap
+        ->TreeMap
+        ->LinkedHashMap
+
+        to add values in map we need to use put method.
+        eg: details.put(1,"Ranjith")
+
+    - set: stores the values but do not accept the duplicate values.
+        ->HashSet
+        ->TreeSet
+        ->LinkedHashSet
+
+fileHandling:
+    - how to read a file using the bufferedreader
+    - how to write into a file using writer class
+    - how to copy a file content to a new file and create it.
+
+bufferedreader:
+    - to read a line from the file or input from the user.
+
+unit testing:
+    need to use junit to test the methods.
+    we need to create the project in maven and then add the junit dependency to it.
+    we can add multiple test to a class file.
