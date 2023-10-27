@@ -14,8 +14,8 @@ Concepts used to build:
  
 Done the logic part for the following pages:
 =============================================
-Cart page
-Orders page
-products page
-Category page
-Welcome page
+CartController
+Orders Controller
+products Controller
+Category Controller
+Welcome Controller
