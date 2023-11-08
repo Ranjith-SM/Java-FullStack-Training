@@ -1,0 +1,33 @@
+constructer injection
+setter injection
+@autowired
+@component
+@primary
+     instead of primary we can also use @Qualifier("var")
+ApplicationContext 
+getBean()
+
+autowired by name 
+
+inversionofscope
+
+singleton
+@scope(ConfigurableBeanFactory.SCOPE_PROTOTYPE) or @scope("prototype") -> we can create 2 separate objects for a same class.
+
+ proxyMode = ScopedProxyMode.TARGET_CLASS
+
+ 2lifecyle for beamn:
+    -predestroy
+    -postconstruct
+
+@ComponentScan()
+
+instead of @component & @autowired to create the object/ the dependency injection we can also use CDI.
+
+CDI- Context dependency injection @component-> @Named
+                                @Autowired -> @Inject
+
+ApplicationContext context = SpringApplication.run(class_name); // to run the application in springboot
+annotationConfigApplicationContext applicationcontext = new AnnotationConfigurationApplicationContext(class_name); // to run application in spring.
+
+
