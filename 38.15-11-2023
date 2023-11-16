@@ -1,0 +1,37 @@
+Task done:
+    - created controllers , service files, and repository for the respected model
+    1. Controllers:
+        -> Admin:
+            - booked-events controller
+            - category controller
+            - event controller
+            - user controller
+        -> User:
+            - address controller
+            - auth controller
+            - category controller
+            - event controller
+            - bookedevent controller
+    2. Services:
+        - event service
+        - user service
+        - category service
+        - bookedevents service
+        - address service
+        - userdetailsimpl : for user role (user/admin)
+    
+    3. Repository:
+        - Address 
+        - bookedevents
+        - category
+        - event
+        - role
+        - user
+        - bookeduserdetails
+
+
+    - done all the business logic for login and register in the respective controllers and service files,
+    then checked all the endpoints in the postman .
+
+    - created workspace & collections for every respected endpoints in the postman.
+    

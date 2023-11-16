@@ -1,0 +1,12 @@
+Task Done:
+    - created all the respective models for the project.
+    => Models:
+        - Address
+        - AppUSer
+        - BookedEvents
+        - bookeduserdetails
+        - eventcategory
+        - event
+        - role
+    - then mapped all  the respective models, ie. created foreign key
+    
