@@ -1,0 +1,18 @@
+Caravan and Camping Reservation System 
+--------------------------------------
+    *Continued with the integration of back end and 
+        - Integrated all the POST methods.
+            -> POST category 
+            -> Register 
+            -> POST location 
+            -> POST staff
+
+        - Integrated all the PUT methods.
+            -> PUT category 
+            -> PUT location 
+
+        - Integrated all the DELETE methods.
+            -> DELETE category 
+            -> DELETE location 
+            -> DELETE booking 
+            

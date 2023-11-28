@@ -1,0 +1,7 @@
+today's task done:
+- done chart for the admin part to show the last 7 day booking
+- started file upload from frontend to api backend.
+- stored the file as text in the db and get the referenced file in the server.
+- then done the backend to view the stored file.
+- wrote separate rest controller to view the file using api.
+- get the file from api and viewed in the frontend

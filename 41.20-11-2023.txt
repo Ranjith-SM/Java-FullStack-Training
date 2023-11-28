@@ -1,0 +1,17 @@
+Caravan and Camping Reservation System 
+--------------------------------------
+    *Started with the front-end part of the project using angular.
+        - Components 
+            1. Login 
+            2. Register 
+            3. Home 
+            4. Bookings 
+            5. Camping 
+            6. Location 
+            7. Profile 
+            8. Navbar
+            9. Dashboard
+
+        - Added Router to the components for the navigations.
+        - Included the required forms.
+        - Added custom and lottie animations 

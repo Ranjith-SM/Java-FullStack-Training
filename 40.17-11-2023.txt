@@ -1,0 +1,13 @@
+Caravan and Camping Reservation System 
+--------------------------------------
+    *Completed the backend part for sprint 1 with the following 
+        - Camping
+        - Location 
+        - Bookings
+        - User Profile 
+        - Auth (Login/Register)
+
+    *Started with the UI part
+        - Login 
+        - Register 
+        - Home 
