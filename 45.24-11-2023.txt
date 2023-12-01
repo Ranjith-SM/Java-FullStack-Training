@@ -1,4 +1,4 @@
-Caravan and Camping Reservation System 
+Event Ticket Platform
 --------------------------------------
     *Continued with the integration part of back end and front end  
         - Integrated POST methods

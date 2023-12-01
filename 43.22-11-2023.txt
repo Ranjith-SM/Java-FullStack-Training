@@ -1,13 +1,11 @@
-Caravan and Camping Reservation System 
+Event Ticket Platform
 --------------------------------------
     *Continued with the integration of back end and front end.
         - Integrated all the GET Methods 
-            -> GET camping 
-            -> GET location  
-            -> GET staffs 
+            -> GET Event 
             -> GET bookings 
             -> GET user bookings
 
         - Integrated Post method 
-            -> POST camping 
+            -> POST Event 
             

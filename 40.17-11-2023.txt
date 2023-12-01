@@ -1,8 +1,8 @@
-Caravan and Camping Reservation System 
+Event Ticket Platform 
 --------------------------------------
     *Completed the backend part for sprint 1 with the following 
-        - Camping
-        - Location 
+        - Event
+        - category 
         - Bookings
         - User Profile 
         - Auth (Login/Register)

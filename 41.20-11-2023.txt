@@ -1,14 +1,12 @@
-Caravan and Camping Reservation System 
+Event Ticket Platform
 --------------------------------------
     *Started with the front-end part of the project using angular.
         - Components 
             1. Login 
             2. Register 
             3. Home 
-            4. Bookings 
-            5. Camping 
-            6. Location 
-            7. Profile 
+            4. Event 
+            5. UserBookedEvent 
             8. Navbar
             9. Dashboard
 
